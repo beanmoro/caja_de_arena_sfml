@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1457138081 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\main.cpp
+	"include.h"
+	"game.h"
+
+1457559326 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\game.cpp
+	"game.h"
+	"include.h"
+
+1457557345 c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\game.h
+	"include.h"
+
+1457137957 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\lightcycle.cpp
+	"lightCycle.h"
+	<iostream>
+	<stdint.h>
+	<SDL.h>
+
+1457137749 c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\lightcycle.h
+
+1457138954 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\ui.cpp
+	"ui.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1457136669 c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\ui.h
+	<SDL_ttf.h>
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1457388145 c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\include.h
+	<iostream>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"E:\RapidXML\rapidxml_utils.hpp"
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1457198789 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\daycycle.cpp
+	"include.h"
+	"game.h"
+
+1457200810 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\gui.cpp
+	"game.h"
+	"include.h"
+
+1242442162 e:\rapidxml\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1242193578 e:\rapidxml\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1457559136 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\terrain.cpp
+	"game.h"
+	"include.h"
+
+1457402082 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\utils.cpp
+	"game.h"
+	"include.h"
+
+1457555136 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\events.cpp
+	"game.h"
+	"include.h"
+
+1457403916 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\keyboard.cpp
+	"game.h"
+	"include.h"
+
+1457389531 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\tiles.cpp
+	"game.h"
+	"include.h"
+
+1457491936 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\chunks.cpp
+	"game.h"
+	"include.h"
+
+1457505004 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\blocks.cpp
+	"game.h"
+	"include.h"
+
+1457559284 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena\cajadearena\light.cpp
+	"game.h"
+	"include.h"
+
+1457633051 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\blocks.cpp
+	"game.h"
+	"include.h"
+
+1457649410 c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\game.h
+	"include.h"
+
+1457633124 c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\include.h
+	<iostream>
+	<stdio.h>
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	"E:\RapidXML\rapidxml_utils.hpp"
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1457641654 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\events.cpp
+	"game.h"
+	"include.h"
+
+1457138081 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\main.cpp
+	"include.h"
+	"game.h"
+
+1457389531 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\tiles.cpp
+	"game.h"
+	"include.h"
+
+1457570757 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\chunks.cpp
+	"game.h"
+	"include.h"
+
+1457617891 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\daycycle.cpp
+	"include.h"
+	"game.h"
+
+1457648889 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\game.cpp
+	"game.h"
+	"include.h"
+
+1457571706 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\gui.cpp
+	"game.h"
+	"include.h"
+
+1457641131 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\keyboard.cpp
+	"game.h"
+	"include.h"
+
+1457649764 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\light.cpp
+	"game.h"
+	"include.h"
+
+1457617431 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\terrain.cpp
+	"game.h"
+	"include.h"
+
+1457576305 source:c:\users\shozaman\dropbox\pr. juegos\cajadearena_sfml\cajadearena\utils.cpp
+	"game.h"
+	"include.h"
+
+1457633051 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\blocks.cpp
+	"game.h"
+	"include.h"
+
+1457819263 c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\game.h
+	"include.h"
+
+1457819187 c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\include.h
+	<iostream>
+	<stdio.h>
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1457570757 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\chunks.cpp
+	"game.h"
+	"include.h"
+
+1457617891 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\daycycle.cpp
+	"include.h"
+	"game.h"
+
+1457641654 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\events.cpp
+	"game.h"
+	"include.h"
+
+1457819243 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\game.cpp
+	"game.h"
+	"include.h"
+
+1457571706 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\gui.cpp
+	"game.h"
+	"include.h"
+
+1458014416 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\keyboard.cpp
+	"game.h"
+	"include.h"
+
+1457649764 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\light.cpp
+	"game.h"
+	"include.h"
+
+1457138081 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\main.cpp
+	"include.h"
+	"game.h"
+
+1457617431 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\terrain.cpp
+	"game.h"
+	"include.h"
+
+1457389531 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\tiles.cpp
+	"game.h"
+	"include.h"
+
+1457576305 source:c:\users\alvar\dropbox\2t\juegos_de_prueba\codigos\cajadearena_sfml\cajadearena\utils.cpp
+	"game.h"
+	"include.h"
+
